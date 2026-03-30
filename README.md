@@ -18,4 +18,16 @@ What recommendations can improve revenue growth and product performance
 # 3. Tools To Complete The Project
 For planning and design :
 * MIRO
+* CANVA
+
+# 4. Data Engineering & Processing
+For data processing I am using :
+*Databricks
+
+# 5. Data Analysis & Visualization
+*Microsoft Excel
+
+# 6. Presentation & Reporting
+*Microsoft PowerPoint
+*Canva
 
